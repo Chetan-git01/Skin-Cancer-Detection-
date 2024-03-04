@@ -1,5 +1,5 @@
 # Skin-Cancer-Detection-
-##Overview
+## Overview
 This project aims to develop a skin cancer detection system using Convolutional Neural Networks (CNN) deployed on Microsoft Fabric. Skin cancer is one of the most common types of cancer worldwide, and early detection plays a crucial role in improving patient outcomes. By leveraging deep learning techniques, this project seeks to provide a scalable and efficient solution for automated skin cancer detection.
 
 Features
